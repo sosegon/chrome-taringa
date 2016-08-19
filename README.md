@@ -26,7 +26,7 @@ Una vez instalada la extensión se debe configurarla
 
 - <img src=http://i1041.photobucket.com/albums/b414/sosegon/chromeTaringaPaso5.jpg width="500"></img>
 
-# Licencia
+## Licencia
 
 Licencia [MIT] (https://opensource.org/licenses/MIT)
 
